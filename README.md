@@ -1,5 +1,5 @@
 # DoubleCounterBypass
-DoubleCounterBypass [DiscordBot]
+First public DoubleCounterBypass [DiscordBot]
 
 [Release Date: 03/27/2022 - 13:52]
 
