@@ -37,7 +37,7 @@ namespace DoubleCounter_Bypass
             httpWebRequest.ContentType = "application/json;charset=utf-8";
             httpWebRequest.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36";
             httpWebRequest.Headers.Add("sec-ch-ua-platform", "\"Windows\"");
-            httpWebRequest.Headers.Add("Cookie", "_ga=GA1.1.1039894194.1646985188; __gads=ID=0b965bd729169596-22dbcd3f59cd000f:T=1646985192:RT=1646985192:S=ALNI_MZ_cmjFmUAMH2X7_Kua80PwlrVahA; _ga_WQ3HYZJ89Y=GS1.1.1646985188.1.0.1646985213.0; _gcl_au=1.1.1702204874.1646985214");
+            httpWebRequest.Headers.Add("Cookie", "");
             httpWebRequest.Headers.Add("Origin", "verify.dcounter.space");
             httpWebRequest.Headers.Add("Sec-Fetch-Site", "none");
             httpWebRequest.Headers.Add("Sec-Fetch-Mode", "navigate");
